@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\refint\04. Back In 30 Minutes.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\ref\04. Back In 30 Minutes.dll

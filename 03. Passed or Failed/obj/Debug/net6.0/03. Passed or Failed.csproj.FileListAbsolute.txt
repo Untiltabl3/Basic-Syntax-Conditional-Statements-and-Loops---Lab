@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\refint\03. Passed or Failed.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\ref\03. Passed or Failed.dll

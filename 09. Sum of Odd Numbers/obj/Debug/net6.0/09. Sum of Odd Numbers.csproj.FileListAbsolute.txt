@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net6.0\09. Sum of Odd Numbers.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net6.0\09. Sum of Odd Numbers.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net6.0\09. Sum of Odd Numbers.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net6.0\09. Sum of Odd Numbers.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net6.0\09. Sum of Odd Numbers.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\refint\09. Sum of Odd Numbers.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\09. Sum of Odd Numbers.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net6.0\ref\09. Sum of Odd Numbers.dll

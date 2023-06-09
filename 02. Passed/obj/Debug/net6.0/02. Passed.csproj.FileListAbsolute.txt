@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\refint\02. Passed.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\ref\02. Passed.dll

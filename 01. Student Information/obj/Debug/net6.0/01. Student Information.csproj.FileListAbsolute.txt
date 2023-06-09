@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net6.0\01. Student Information.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net6.0\01. Student Information.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net6.0\01. Student Information.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net6.0\01. Student Information.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net6.0\01. Student Information.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\refint\01. Student Information.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\01. Student Information.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net6.0\ref\01. Student Information.dll

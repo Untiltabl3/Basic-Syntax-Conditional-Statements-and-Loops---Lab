@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net6.0\05. Month Printer.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net6.0\05. Month Printer.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net6.0\05. Month Printer.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net6.0\05. Month Printer.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net6.0\05. Month Printer.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\refint\05. Month Printer.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\05. Month Printer.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net6.0\ref\05. Month Printer.dll
